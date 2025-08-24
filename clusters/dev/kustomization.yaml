@@ -1,1 +1,2 @@
-resources: []
+resources:
+- apps/nginx/deploy.yaml
